@@ -1,7 +1,7 @@
 <h1> Olá, Seja Bem Vindo(a) ! 👋</h1>
 :woman:Eu tenho 19 anos<br/>
 :books:Estou no 3º semestre de Ciência da Computação<br/>
-:computer: Atualmente estou estagiando na empresa de tecnologia Qintess, alocada em um projeto na caixa econômica federal<br/>
+:computer: Atualmente estou estagiando na empresa de tecnologia Qintess<br/>
 :sparkles:Fun fact: Eu toco violino.
 
 <!--
