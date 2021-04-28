@@ -1,7 +1,7 @@
 <h1> Olá, Seja Bem Vindo(a) !👋🏼</h1>
-:woman:Meu nome é Marianna e eu tenho 19 anos<br/>
-:mortar_board:Graduanda no 3º semestre em Ciência da Computação<br/>
-:computer:Estagiária em desenvolvimento de software na empresa de tecnologia Qintess<br/>
+:woman:Meu nome é Marianna, tenho 19 anos de idade.<br/>
+:mortar_board:Graduanda no 3º semestre em Ciência da Computação.<br/>
+:computer:Estagiária em desenvolvimento de software na empresa de tecnologia Qintess.<br/>
 :sparkles:Fun fact: Eu toco violino. <br/>
 
 
