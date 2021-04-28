@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1> Olá, Seja Bem Vindo(a) ! 👋</h1>
+:woman:Eu tenho 19 anos
+:books:Estou no 3º semestre de Ciência da Computação
+:computer: Atualmente estou estagiando na empresa de tecnologia Qintess, alocada em um projeto na caixa econômica federal
+:sparkles:Fun fact: Eu toco violino.
 
 <!--
 **Mariannamonteiro/Mariannamonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Eu toco violino.
 -->
